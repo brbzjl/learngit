@@ -2,6 +2,6 @@
 hello world 
 this is the first time i use git and bim
 
-now we can try a change
+now i have deleted a line
 
 
