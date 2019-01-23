@@ -3,5 +3,7 @@ hello world
 this is the first time i use git and bim
 
 now i have deleted a line
+where is the deleted line?
 
+obviously it's not the first day which i learn git. hope i can stick to the end this time
 
